@@ -1,5 +1,16 @@
-opencv-python
-numpy
-ultralytics
-picamera2
-RPi.GPIO
+# Temel Bağımlılıklar
+ultralytics==8.0.0  # YOLOv8
+opencv-python==4.7.0.72
+numpy==1.24.0
+
+# Raspberry Pi Özel
+RPi.GPIO==0.7.0
+picamera2==0.3.13  # Resmi Pi Kamera desteği
+pigpio==1.78  # Servo kontrol için (isteğe bağlı)
+
+# Görüntü İşleme
+torch==2.0.0  # PyTorch (YOLO için)
+torchvision==0.15.0
+
+# Opsiyonel
+python-dotenv==0.19.0  # Ortam değişkenleri için
