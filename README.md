@@ -70,3 +70,5 @@ Bu proje, Raspberry Pi kullanılarak mavi renkli nesnelerin gerçek zamanlı ola
 1. Raspberry Pi işletim sisteminizi güncelleyin:
    ```bash
    sudo apt update && sudo apt upgrade
+   sudo apt install python3-pip
+   pip install -r requirements.txt
