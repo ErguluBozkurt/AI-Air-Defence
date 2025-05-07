@@ -1,4 +1,5 @@
-# 🎯 Nesne Takipli Otomatik Yönelim ve Hareket Sistemi (Raspberry Pi 4B + YOLOv8)
+# 🚀 Otonom Hava Savunma Sistemi (Raspberry Pi 4B + YOLOv8)
+*Mavi balon tespiti ve otomatik takip sistemi*
 
 Bu proje, Raspberry Pi kullanılarak mavi renkli nesnelerin gerçek zamanlı olarak tespit edilmesi, step motor ile nesneye yönelme, nesneye ulaşıldığında servo motor ve DC motorlarla silah sisteminin devreye girmesi ile atış gerçekleştirilmesini sağlayan **görsel tabanlı bir otomasyon sistemidir**. YOLOv8 modeli ile görüntü üzerinde nesne tespiti yapılmakta ve buna göre donanım bileşenleri eş zamanlı olarak kontrol edilmektedir.
 
