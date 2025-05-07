@@ -1,6 +1,5 @@
-CODES:
+### CODES: ###
 # 🚀 Otonom Hava Savunma Sistemi (Raspberry Pi + YOLOv8)
-![Sistem Demo](https://imgur.com/XYZ123.jpg)  
 *Mavi balon tespiti ve otomatik takip sistemi*
 
 ## 🔧 Tam Kurulum Rehberi
@@ -36,8 +35,8 @@ sudo apt update && sudo apt full-upgrade -y
 sudo apt install -y python3-picamera2 python3-opencv libopenblas-dev
 
 # 3. Projeyi klonla
-git clone https://github.com/sizin-repo/otonom-hava-savunma.git
-cd otonom-hava-savunma
+git clone https://github.com/ErguluBozkurt/AI-Air-Defence.git
+cd AI-Air-Defence
 
 # 4. Sanal ortam oluştur (Önerilir)
 python3 -m venv .env
