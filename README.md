@@ -1,4 +1,3 @@
-### CODES: ###
 # 🚀 Otonom Hava Savunma Sistemi (Raspberry Pi + YOLOv8)
 *Mavi balon tespiti ve otomatik takip sistemi*
 
